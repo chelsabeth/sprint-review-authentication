@@ -11,7 +11,8 @@ a little sprint review for you ♥️
 ## We will be building a project that follows these guidlines 
 
 - [ ] build a `register` and `login` inside the `auth` folder. A `user` has a `username` and `password`
-- [ ] build `authentication` middleware inside the `auth` folder - no user should be able to view the cat facts unless they have a `token`
+- [ ] build `authentication` middleware inside the `auth` folder 
+- [ ] no user should be able to view the cat facts unless they have a `token`
 
 ## Stretch 
 
