@@ -16,5 +16,5 @@ a little sprint review for you ♥️
 
 ## Stretch 
 
-- [ ] create tests for your endpoints  
+- [ ] create some tests for your endpoints  
 
