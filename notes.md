@@ -9,4 +9,3 @@ Steps for this repo:
 6. navigate through files and get yourself familiar with structure and routes that you will need to plug into postman
 7. code out the register and login 
 8. code out your auth middleware 
-*forgot to put in an index.js, so we will have to set that up* 
