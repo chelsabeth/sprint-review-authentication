@@ -12,7 +12,7 @@ server.use(helmet());
 server.use(cors());
 server.use(express.json());
 
-server.use('/api/auth', authRouter);
-server.use('/api/cat-facts', authenticate, catFactsRouter);
+server.use('/api/auth', authRouter); // register and login
+server.use('/api/cat-facts', authenticate, catFactsRouter); // after a user is logged and has a token 
 
 module.exports = server;
