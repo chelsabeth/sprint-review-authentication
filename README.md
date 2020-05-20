@@ -16,5 +16,5 @@ a little sprint review for you ♥️
 
 ## Stretch 
 
-- [ ] create a `react-app` that connects to your API  
+- [ ] create tests for your endpoints  
 
