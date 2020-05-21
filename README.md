@@ -7,14 +7,6 @@ a little sprint review for you ♥️
 - [ ] `cd` into your project
 - [ ] create your own branch - `firstname-lastname`
 - [ ] `npm i` to get all node dependencies 
-
-## We will be building a project that follows these guidlines 
-
-- [ ] build a `register` and `login` inside the `auth` folder. A `user` has a `username` and `password`
-- [ ] build `authentication` middleware inside the `auth` folder 
-- [ ] no user should be able to view the cat facts unless they have a `token`
-
-## Stretch 
-
-- [ ] create some tests for your endpoints
+- [ ] navigate through the code and take a look at what is going on - everything is written for you except for testing 
+- [ ] let's write some tests for our endpoints!  
 
