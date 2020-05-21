@@ -7,6 +7,6 @@ a little sprint review for you ♥️
 - [ ] `cd` into your project
 - [ ] create your own branch - `firstname-lastname`
 - [ ] `npm i` to get all node dependencies 
-- [ ] navigate through the code and take a look at what is going on 
-- [ ] let's write some tests for our code!  
+- [ ] navigate through the code and take a look at what is going on - everything is written for you except for testing 
+- [ ] let's write some tests for our endpoints!  
 
