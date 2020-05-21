@@ -10,3 +10,4 @@ Steps for this repo:
 7. code out the register and login 
 8. code out your auth middleware 
 *create an index.js because I forgot to put one in here for you 🙃*
+
